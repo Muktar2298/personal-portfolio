@@ -29,7 +29,7 @@ h1{
 }
 
 .top-section{
-    background-image: url("/images/top-banner.png");
+    background-image: url("./images/top-banner.png");
     background-repeat: no-repeat;
 }
 section{
@@ -52,7 +52,7 @@ section{
 
 .middle-section{
     height: 500px;
-    background-image: url(/images/dream-bg.png);
+    background-image: url("./images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -76,7 +76,7 @@ section{
     border-image-slice: 1;
 }
 .experience-section{
-    background-image: url(/images/exp-bg.png);
+    background-image: url("./images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
 }
